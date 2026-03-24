@@ -125,3 +125,27 @@ Generative Engine Optimization is not a passing trend; it is the natural evoluti
 By focusing on brand authority, citation health, and technical RAG-readiness, you ensure that your brand isn't just found—it's recommended. Platforms like **Option** provide the necessary visibility and prioritized actions to navigate this shift, turning the complexity of AI search into a measurable competitive advantage.
 
 The brands that master GEO in 2026 will be the ones that define their categories for the next decade. The era of the blue link is ending; the era of the AI recommendation has begun. Ensure your brand is the one the AI chooses to speak about.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "What is GEO? The Guide to Generative Engine Optimization",
+  "description": "A comprehensive guide to Generative Engine Optimization (GEO) and how to improve brand visibility in AI models.",
+  "author": {
+    "@type": "Organization",
+    "name": "Option"
+  },
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) is the process of optimizing content to be discovered and recommended by AI models like ChatGPT."
+      }
+    }]
+  }
+}
+</script>
